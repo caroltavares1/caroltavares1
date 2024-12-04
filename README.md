@@ -11,6 +11,21 @@
 
 ## Habilidades
 
+### Linguagens de programação
+
+<p>
+  <img alt="ADVPL" src="https://img.shields.io/badge/ADVPL-%232D2926?style=for-the-badge&logo=totvs">
+  <img alt="TLPP" src="https://img.shields.io/badge/TLPP-%23685BC7?style=for-the-badge&logo=totvs">
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" alt="Python" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" alt="SQL" width="50" />        
+          
+</p>
+
 ### Framworks
 
 <p>
@@ -39,20 +54,6 @@
           
 </p>
 
-### Linguagens de programação
-
-<p>
-  <img alt="ADVPL" src="https://img.shields.io/badge/ADVPL-%232D2926?style=for-the-badge&logo=totvs">
-  <img alt="TLPP" src="https://img.shields.io/badge/TLPP-%23685BC7?style=for-the-badge&logo=totvs">
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" alt="Python" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" alt="SQL" width="50" />        
-          
-</p>
 <br>
 <div align="center">
   
