@@ -43,8 +43,8 @@
 <br>
 <div align="center">
   
-  [![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroltavares1&show_icons=true&theme=cobalt)](https://github.com/caroltavares1/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroltavares1&&layout=donut&theme=cobalt)
+  [![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroltavares1&show_icons=true&theme=calm_pink)](https://github.com/caroltavares1/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroltavares1&&layout=donut&theme=calm_pink)
 
 </div>
 
